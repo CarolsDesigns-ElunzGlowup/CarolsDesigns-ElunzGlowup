@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi! I'm Caroline Wamuyu — a passionate **Front-End Developer** and **UI/UX enthusiast**.  
 
-<!--
-**CarolsDesigns-ElunzGlowup/CarolsDesigns-ElunzGlowup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in building **responsive, user-friendly websites** using **HTML, CSS, and JavaScript**, and bringing designs to life with clean, efficient code.  
 
-Here are some ideas to get you started:
+🎨 I also enjoy **graphic design and motion graphics**, creating engaging visuals and interactive UI elements.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning and exploring **modern frontend tools and frameworks** to level up my web development skills.  
+
+📂 Check out my repositories for **web projects, UI components, and design experiments**.  
+
+ 📫How to reach me: LinkedIn((https://www.linkedin.com/in/caroline-wamuyu-70b048314)) 
+ 
+📬 Let’s connect!  
+
